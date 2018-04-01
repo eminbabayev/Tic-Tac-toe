@@ -1,0 +1,9 @@
+C:\Users\User\Documents\C#\крестики-нолики\крестики-нолики\bin\Debug\крестики-нолики.exe
+C:\Users\User\Documents\C#\крестики-нолики\крестики-нолики\bin\Debug\крестики-нолики.pdb
+C:\Users\User\Documents\C#\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#\крестики-нолики\крестики-нолики\obj\Debug\крестики_нолики.Form1.resources
+C:\Users\User\Documents\C#\крестики-нолики\крестики-нолики\obj\Debug\крестики_нолики.Properties.Resources.resources
+C:\Users\User\Documents\C#\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.csproj.GenerateResource.Cache
+C:\Users\User\Documents\C#\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.exe
+C:\Users\User\Documents\C#\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.pdb
